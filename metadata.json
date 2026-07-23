@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "AI-powered study assistant that transforms lecture notes into concise summaries and 5-question multiple choice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
