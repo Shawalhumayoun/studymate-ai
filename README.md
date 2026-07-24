@@ -6,17 +6,6 @@ Powered by Google's **Gemini AI** (`gemini-3.6-flash`), StudyMate AI extracts ke
 ## Live Demo
 👉 https://studymate-ai-rayyan.vercel.app
 
-## Screenshots 📸
-
-**1. Home Page**
-![Home Page](wa_image_3755118307789407845.jpg)
-
-**2. AI Summary + MCQs**
-![Summary and MCQ](wa_image_5499338234659960567.jpg)
-
-**3. Vocabulary Decoder**
-![Vocabulary](wa_image_7410593917235650459.jpg)
-
 ## 🌟 Key Features
 
 - **Notes Input & Sample Notes**: Paste notes directly, upload `.txt` or `.md` files, or test with 1-click sample notes (Biology, History, Computer Science).
