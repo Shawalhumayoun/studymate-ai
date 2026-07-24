@@ -4,24 +4,7 @@ StudyMate AI is a responsive web application that helps students study faster by
 
 Powered by Google's **Gemini AI** (`gemini-3.6-flash`), StudyMate AI extracts key takeaways, generates actionable study tips, and creates interactive practice tests with real-time feedback and detailed answer explanations.
 ## Live Demo
-👉 https://studymate-ai-rayyan.vercel.app
-## Screenshots 📸
-
-**1. Home Page**  
-Screenshot_20260724-083555.jpg
-
-**2. AI Summary Output**  
-*Long notes → Key Takeaways in 2 minutes*
-![AI Summary](wa_image_3279274714623018351_1.jpg)
-
-**3. 5X Practice MCQs**  
-*Exam Self-Test with step-by-step questions and explanations*
-![MCQs](wa_image_3279274714623018351_2.jpg)
-
-**4. Vocabulary Decoder**  
-*Hard Words Explained Simply with context examples*
-![Vocabulary](wa_image_3279274714623018351_3.jpg)
-
+👉 https://studymate-ai-rayyan.vercel.ap
 ## 🌟 Key Features
 
 - **Notes Input & Sample Notes**: Paste notes directly, upload `.txt` or `.md` files, or test with 1-click sample notes (Biology, History, Computer Science).
