@@ -8,8 +8,7 @@ Powered by Google's **Gemini AI** (`gemini-3.6-flash`), StudyMate AI extracts ke
 ## Screenshots 📸
 
 **1. Home Page**  
-*Knowledge Compression Engine - Paste notes and get instant results*
-![Home Page](wa_image_3279274714623018351_0.jpg)
+Screenshot_20260724-083555.jpg
 
 **2. AI Summary Output**  
 *Long notes → Key Takeaways in 2 minutes*
